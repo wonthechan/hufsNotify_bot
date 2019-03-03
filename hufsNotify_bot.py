@@ -4,9 +4,9 @@ import os
 
 import telegram
 
-bot = telegram.Bot(token='632325521:AAED2kE4qeRUahZU6gvGxiW44vzhEeDLNlQ')
-#chat_id = bot.getUpdates()[-1].message.chat.id
-chat_id = 656764398
+bot = telegram.Bot(os.environ['TELEGRAM_API_TOKEN'])
+chat_id = bot.getUpdates()[-1].message.chat.id
+
 # 파일의 위치
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # 공지 게시판 크롤링
