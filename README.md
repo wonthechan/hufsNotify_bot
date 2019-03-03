@@ -16,4 +16,4 @@ https://t.me/wonthechan_bot
 * requests
 
 ### Screenshots
-![](https://github.com/wonthechan/hufsNotify_bot/blob/master/hufsNotify_bot_screenshot.jpg?raw=true)
+![](https://github.com/wonthechan/hufsNotify_bot/blob/master/hufsNotify_bot_screenshot2.png?raw=true)
