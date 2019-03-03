@@ -5,3 +5,11 @@ https://t.me/wonthechan_bot
 
 30분 간격으로 새 글이 올라왔는지 확인합니다.
 현재 [학사공지게시판](http://builder.hufs.ac.kr/user/indexSub.action?codyMenuSeq=37080&siteId=hufs&menuType=T&uId=4&sortChar=AB&linkUrl=04_0202.html&mainFrame=right), [일반공지게시판](http://builder.hufs.ac.kr/user/indexSub.action?codyMenuSeq=37079&siteId=hufs&menuType=T&uId=4&sortChar=AB&linkUrl=04_0202.html&mainFrame=right%27) 의 새 글을 30분 간격으로 확인합니다.
+
+## Environment
+# Ubuntu 16.04
+# crontab
+# Python 3.5.2
+* telegram
+* BeautifulSoup
+* requests
